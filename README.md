@@ -1,7 +1,7 @@
 # First Order Logic Inference
 ## CSCI- 561 - Spring 2021 - Foundations of Artificial Intelligence
 Homework 3
-
+![Puppies](https://github.com/biyaniM/csci561-hw3-First-Order-Logic-Inference/blob/master/puppy_photo.png)
 ## Project Description
 
 You have finally found your dream job running an academy for puppies. You are so passionate
