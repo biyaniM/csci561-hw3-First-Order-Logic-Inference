@@ -162,7 +162,7 @@ class SafeTreeNode:
 
 class PuppyAcademy:
 
-    def __init__(self,ip='testcases\input_1.txt',op='output.txt') -> None:
+    def __init__(self,ip='input.txt',op='output.txt') -> None:
         self.ip=ip
         f=open(self.ip,'r').read()
         self.op=op
